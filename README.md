@@ -17,6 +17,7 @@ Minimalistyczna aplikacja webowa stworzona w React, która wyświetla 6 losowych
 - 🌀 Loader podczas ładowania zdjęć
 - 🎨 Prosty, responsywny design z użyciem Tailwind CSS
 - ✨ Animacje fade-in zdjęć i modala
+- 🌙 **Tryb ciemny** (Dark Mode) obsługiwany przez Tailwind CSS
 
 ---
 
