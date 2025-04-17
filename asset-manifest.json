@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-galeria-kotow/static/css/main.bb43de64.css",
+    "main.js": "/mini-galeria-kotow/static/js/main.d14fa2a4.js",
+    "static/js/453.bebe79ef.chunk.js": "/mini-galeria-kotow/static/js/453.bebe79ef.chunk.js",
+    "index.html": "/mini-galeria-kotow/index.html",
+    "main.bb43de64.css.map": "/mini-galeria-kotow/static/css/main.bb43de64.css.map",
+    "main.d14fa2a4.js.map": "/mini-galeria-kotow/static/js/main.d14fa2a4.js.map",
+    "453.bebe79ef.chunk.js.map": "/mini-galeria-kotow/static/js/453.bebe79ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb43de64.css",
+    "static/js/main.d14fa2a4.js"
+  ]
+}
