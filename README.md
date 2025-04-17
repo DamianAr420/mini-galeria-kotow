@@ -11,7 +11,7 @@ Minimalistyczna aplikacja webowa stworzona w React, która wyświetla 6 losowych
 
 ## ✨ Funkcje
 
-- 🐾 Pobieranie 6 losowych zdjęć kotów z [The Cat API](https://thecatapi.com/)
+- 🐾 Pobieranie 6 losowych zdjęć kotów
 - 🔍 Powiększanie zdjęcia po kliknięciu (modal)
 - 🔄 Przycisk „Refresh cats” do odświeżenia galerii
 - 🌀 Loader podczas ładowania zdjęć
